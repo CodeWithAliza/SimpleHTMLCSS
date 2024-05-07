@@ -1,0 +1,66 @@
+.main{
+	width: 50vw;
+	
+
+}
+
+
+.google-icon{
+	width: 300px;
+	text-align: center;
+}
+
+span{
+	font-size: 50px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif ;
+	
+}
+.google-icon span:nth-child(1){
+	color:  #4285f4;
+}
+.google-icon span:nth-child(2){
+	color:  #DB4437;
+}
+.google-icon span:nth-child(3){
+	color: #F4B400;
+}
+.google-icon span:nth-child(4){
+	color:  #4285f4;
+}
+.google-icon span:nth-child(5){
+	color:  #0F9D58;
+}
+.google-icon span:nth-child(6){
+	color:   #DB4437;
+}
+.seacrh_bar{
+	width: 300px;
+	
+}
+.seacrh_bar input{
+	border: none;
+	width: 380px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-top: 10px;
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+
+}
+.para{
+	margin-top: 80px;
+	width: 700px;
+	margin-bottom: 0;
+	
+}
+.para p{
+	width: 230px;
+	display: inline-block;
+
+}
+.btn{
+	display: inline-block;
+
+}
+
